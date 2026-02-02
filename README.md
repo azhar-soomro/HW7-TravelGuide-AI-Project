@@ -49,3 +49,6 @@ AI is used to:
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+
+streamlit run Travel_Guide.py
+
